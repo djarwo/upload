@@ -21,7 +21,12 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
--Composer Update
--Set .env
--Set port (php -S localhost:8100 -t ./public) port terserah
--https://www.getpostman.com/collections/09346a59b879b37cb447 (collection postman)
+•	Composer Update
+
+•	Set .env
+
+•	Set port (php -S localhost:8100 -t ./public) port terserah
+
+•	https://www.getpostman.com/collections/09346a59b879b37cb447 (collection postman)
+
+
